@@ -15,7 +15,7 @@ In this course we will be using a unix terminal. Since it may be difficult to de
 * Make sure resource virtualization is enabled in the bios for your computer (this will vary based on the computer you have and you'll want to google how to do this for your specific computer)
 * Create a new "Ubuntu" virtual box, when you first open the virtual box, a prompt will pop up
 
-	![](images/vm-install-ubuntu.png)
+	<img src="images/vm-install-ubuntu.png" width="480">
 
 * Select the folder icon and find your ubuntu ISO and hit "start"
 * Follow the on-screen instructions to "install ubuntu"
