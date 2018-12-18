@@ -10,7 +10,7 @@ Welcome to DPI-691M - Programming and Data for Policymakers
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
 * Trello: [https://trello.com/code4policy](https://trello.com/code4policy)
 
-<img src="./schedule.png" width="480">
+<img src="images/schedule.png" width="480">
 
 # Day 0
 like any good programmer, we start our counting with 0...
