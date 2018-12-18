@@ -5,13 +5,12 @@ Instructor: [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta) -
 
 Welcome to DPI-691M - Programming and Data for Policymakers
 
-* Description: https://www.hks.harvard.edu/courses/programming-and-data-policymakers
-* Syllabus: https://code4policy.github.io/2019/syllabus.pdf
-* Slack: https://code4policy.slack.com
-* Trello: https://trello.com/code4policy
+* Description: [https://www.hks.harvard.edu/courses/programming-and-data-policymakers](https://www.hks.harvard.edu/courses/programming-and-data-policymakers)
+* Syllabus: [https://code4policy.github.io/2019/syllabus.pdf](https://code4policy.github.io/2019/syllabus.pdf)
+* Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
+* Trello: [https://trello.com/code4policy](https://trello.com/code4policy)
 
-
-	<img src="./schedule.png" width="480">
+<img src="./schedule.png" width="480">
 
 # Day 0
 like any good programmer, we start our counting with 0...
