@@ -19,5 +19,5 @@ In this course we will be using a unix terminal. Since it may be difficult to de
 
 * Select the folder icon and find your ubuntu ISO and hit "start"
 * Follow the on-screen instructions to "install ubuntu"
-* Jump up to the "Ubuntu" section of this document and follow those rules inside the virtual box.
+* Jump up to the "Ubuntu" section of the setup document and follow those rules inside the virtual box.
 
