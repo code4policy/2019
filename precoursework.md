@@ -2,7 +2,7 @@
 
 DPI-691M: Programming and Data for Policymakers
 
-Welcome to "Programming and Data for Policymakers." I'm [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta), your course instructor. I'm looking forward to meeting and working with everyone in January. Since we only have a short time together in class, I have prepared some pre-work that can help us get a running start and get some logistics out of the way.
+Welcome to "Programming and Data for Policymakers." I'm [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta), your course instructor. I'm looking forward to meeting and working with everyone in January.
 
 ## To Do
 
