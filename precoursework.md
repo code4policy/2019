@@ -1,11 +1,5 @@
 # Pre-Course Work
 
-DPI-691M: Programming and Data for Policymakers
-
-Welcome to "Programming and Data for Policymakers." I'm [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta), your course instructor. I'm looking forward to meeting and working with everyone in January.
-
-## To Do
-
 * Fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLSdSCZS-Hs4oD6yvFxUipPiEVmNv-dCM5RuZKsqKdLXWII9ZZQ/viewform?usp=sf_link).
 * Join the class [Slack](https://code4policy.slack.com/join/signup) chat. Introduce yourself in the `#section-a` or `#section-b` channel. Include a little bit about a policy area you’re interested in so that everyone can be thinking about forming project groups.
 * Do first five lessons of the CodeCademy Python Tutorial [[Lessons 1-5 & 8](https://www.codecademy.com/learn/learn-python-3)]
