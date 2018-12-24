@@ -1,6 +1,6 @@
 # Pre-Course Work
 
-* Fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLSdSCZS-Hs4oD6yvFxUipPiEVmNv-dCM5RuZKsqKdLXWII9ZZQ/viewform?usp=sf_link).
+* Fill out the [pre-course survey](https://goo.gl/forms/bSV9N3E0Qt8sd3Y13).
 * Join the class [Slack](https://code4policy.slack.com/join/signup) chat. Introduce yourself in the `#section-a` or `#section-b` channel. Include a little bit about a policy area you’re interested in so that everyone can be thinking about forming project groups.
 * Do first five lessons of the CodeCademy Python Tutorial [[Lessons 1-5 & 8](https://www.codecademy.com/learn/learn-python-3)]
 	- While this work will be due before class **Monday Jan 7**, I'm providing it ahead of time because it **may take a several hours to complete**, so it will be best to get started sooner rather than later. Knowing programming **is not** a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. **You only have to finish the first "interactive lesson" within each section**. The quizzes/projects/etc are purely optional, I will not be looking at those.
