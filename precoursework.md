@@ -7,9 +7,7 @@
 
 ### Additional Instructions for Windows Users
 
-This course will require us to use a Unix shell which is included in the Linux and Mac operating systems. Since it can be hard to debug many different computers with different configurations, I ask that all Windows users please come with Ubuntu installed. 
-
-There are a few different options for installing Ubuntu, please see the guide here: [windows.md](windows.md). If you're stuck, I've created a `#windows-users` channel in Slack where you can help one another get setup, or if you need me just ping me (@dhrumil) or Ori (@opleban) in the channel and we will try our best to help out as well.
+This course will require us to use a Unix shell which is included in the Linux and Mac operating systems. Since it can be hard to debug many different computers with different configurations, I ask that all Windows users please come with Ubuntu installed. There are a few different options for installing Ubuntu, please see the guide here: [windows.md](windows.md). If you're stuck, I've created a `#windows-users` channel in Slack where you can help one another get setup, or if you need me just ping me (@dhrumil) or Ori (@opleban) in the channel and we will try our best to help out as well.
 
 ## Optional Readings
 The optional pre-readings for the course are on the topics of scrum and agile software development. During the course, we will discuss the benefits of agile and its adoption in delivering government services. We will also experiment with adopting some of the principles of "scrum", one of many agile and iterative software development strategies, to our learning over the course of the week of in-class instruction and into the project.
