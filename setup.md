@@ -57,4 +57,5 @@
 	
 ## Windows
 
-Please see instructions to boot Ubuntu on Windows ([windows.md](windows.md)). Once you've loaded and run Ubuntu, please follow the Ubuntu instructions above.
+1. Please see instructions to boot Ubuntu on Windows ([windows.md](windows.md)). 
+2. Once you've loaded and run Ubuntu, please follow the Ubuntu instructions above.
