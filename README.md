@@ -21,3 +21,10 @@ file | description
 [precoursework.md](precoursework.md) | Pre-course Work
 [windows.md](windows.md) | Special instructions for Windows users.
 [setup.md](setup.md) | Setup
+
+# Day 1
+
+file | description
+-----|------------
+[welcome.md](welcome.md) | Intro
+[modules/commandline](../modules/commandline/) | Command Line
