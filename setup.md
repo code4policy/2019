@@ -38,13 +38,13 @@
 
 3. Install git
 
-	`sudo apt-get install  git`
+	`sudo apt-get install git`
 
 4. Install python, and python's package manager (called pip)
 
 	```
-	sudo apt-get install python
-	sudo apt-get install python-pip
+	sudo apt-get install python3
+	sudo apt-get install python3-pip
 	```
 	
 5. Install Sublime Text, the text editor we will be using in class
