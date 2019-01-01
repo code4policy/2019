@@ -27,4 +27,14 @@ file | description
 file | description
 -----|------------
 [welcome.md](welcome.md) | Intro
-[modules/commandline](../modules/commandline/) | Command Line
+[../modules/agile/](https://github.com/code4policy/modules/tree/master/agile) | Agile & Scrum
+[../modules/commandline/](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
+
+### Homework
+
+file | description
+-----|------------
+[precoursework.md](precoursework.md) | Finish Pre-course work
+[../modules/finalproject/projectplanning.md](https://github.com/code4policy/modules/blob/master/finalproject/projectplanning.md) | Project Planning Guide
+[../modules/commandline/07-homework.md](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md) | Command Line Homework
+[../modules/agile/06-reading.md](https://github.com/code4policy/modules/blob/master/agile/06-reading.md) | Agile Reading
