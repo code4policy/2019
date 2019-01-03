@@ -21,3 +21,21 @@ file | description
 [precoursework.md](precoursework.md) | Pre-course Work
 [windows.md](windows.md) | Special instructions for Windows users.
 [setup.md](setup.md) | Setup
+
+# Day 1
+
+file | description
+-----|------------
+[welcome.md](welcome.md) | Intro
+[../modules/agile/](https://github.com/code4policy/modules/tree/master/agile) | Agile & Scrum
+[../modules/commandline/](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
+TKTK | Selecting Project Groups
+
+### Homework
+
+file | description
+-----|------------
+[precoursework.md](precoursework.md) | Finish Pre-course work
+[../modules/finalproject/brainstorm.md](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md) | Project Brainstorm Guide
+[../modules/commandline/07-homework.md](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md) | Command Line Homework
+[../modules/agile/06-reading.md](https://github.com/code4policy/modules/blob/master/agile/06-reading.md) | Agile Reading
