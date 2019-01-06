@@ -54,3 +54,19 @@ file | description
 - | Project Brainstorm 2 (viz/dataset)
 [http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
 [../modules/codeconcepts/function.md](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md) | Functions Homework (Python & JavaScript)
+
+# Day 3
+
+file | description
+-----|------------
+-- | Collaborating on GitHub
+-- | Visualizing Data & Data-Driven Storytelling
+-- | Data Types and Conversions
+-- | Frontend Vs Backend - Web Basics
+
+### Homework
+file | description
+-----|------------
+[../modules/api/apireadings.md](https://github.com/dmil/code4policy/blob/master/apireadings.md) | API Readings
+-- | WebDev Homework
+-- | Prepare for Sprint Review (MVP of Project)
