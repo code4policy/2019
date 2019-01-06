@@ -1,6 +1,5 @@
 # Programming and Data for Policymakers [DPI-691M]
 
-
 Instructor: [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta) - **January 2019**
 
 Welcome to DPI-691M - Programming and Data for Policymakers
@@ -39,3 +38,19 @@ file | description
 [../modules/finalproject/brainstorm.md](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md) | Project Brainstorm Guide
 [../modules/commandline/07-homework.md](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md) | Command Line Homework
 [../modules/agile/06-reading.md](https://github.com/code4policy/modules/blob/master/agile/06-reading.md) | Agile Reading
+
+# Day 2
+
+file | description
+-----|------------
+-- | Storytime (project)
+-- | Agile Discussion (11am Section A / 1pm Section B)
+[../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Git & GitHub (linear workflow & frontend HTML, CSS, and JS)
+-- | Sprint Planning (project)
+
+### Homework
+file | description
+-----|------------
+- | Project Brainstorm 2 (viz/dataset)
+[http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
+[../modules/codeconcepts/function.md](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md) | Functions Homework (Python & JavaScript)
