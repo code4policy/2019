@@ -83,3 +83,16 @@ file | description
 file | description
 -----|------------
 -- | Open Source Reading
+
+# Day 5
+file | description
+-----|------------
+-- | Open Source Discussion
+-- | APIs
+-- | Scraping
+
+### Homework
+file | description
+-----|------------
+-- | Sprint 2 Review
+-- | Sprint 2 Retrospective
