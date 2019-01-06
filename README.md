@@ -70,3 +70,16 @@ file | description
 [../modules/api/apireadings.md](https://github.com/dmil/code4policy/blob/master/apireadings.md) | API Readings
 -- | WebDev Homework
 -- | Prepare for Sprint Review (MVP of Project)
+
+# Day 4
+file | description
+-----|------------
+-- | Sprint 1 Review
+-- | Sprint 1 Retrospective
+-- | Web
+-- | Security Discussion
+
+### Homework
+file | description
+-----|------------
+-- | Open Source Reading
