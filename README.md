@@ -43,10 +43,11 @@ file | description
 
 file | description
 -----|------------
--- | Storytime (project)
--- | Agile Discussion (11am Section A / 1pm Section B)
-[../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Git & GitHub (linear workflow & frontend HTML, CSS, and JS)
--- | Sprint Planning (project)
+[slides](https://slides.com/dhrumilmehta/deck-dcee62b7-28ae-4199-8d47-4ceba73739aa-5-7#/) | Data Driven Storytelling
+[../modules/agile/07-project-storytime.md](https://github.com/code4policy/modules/blob/master/agile/07-project-storytime.md) | Storytime (project)
+-- | Agile Discussion with guest speakers (11am Section A / 1pm Section B)
+[../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Git & GitHub Part 1 (linear workflow)
+[../modules/agile/08-project-sprint-planning.md](https://github.com/code4policy/modules/blob/master/agile/08-project-sprint-planning.md) | Sprint Planning (project)
 
 ### Homework
 file | description
