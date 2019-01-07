@@ -28,7 +28,7 @@ file | description
 [welcome.md](welcome.md) | Intro
 [../modules/agile/](https://github.com/code4policy/modules/tree/master/agile) | Agile & Scrum
 [../modules/commandline/](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
-TKTK | Selecting Project Groups
+-- | Selecting Project Groups
 
 ### Homework
 
@@ -43,16 +43,15 @@ file | description
 
 file | description
 -----|------------
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Storytime Meeting (project)
+-- | Agile Discussion (11am Section A / 1pm Section B)
+[../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Git & GitHub
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting (project)
 [slides](https://slides.com/dhrumilmehta/deck-dcee62b7-28ae-4199-8d47-4ceba73739aa-5-7#/) | Data Driven Storytelling
-[../modules/agile/07-project-storytime.md](https://github.com/code4policy/modules/blob/master/agile/07-project-storytime.md) | Storytime (project)
--- | Agile Discussion with guest speakers (11am Section A / 1pm Section B)
-[../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Git & GitHub Part 1 (linear workflow)
-[../modules/agile/08-project-sprint-planning.md](https://github.com/code4policy/modules/blob/master/agile/08-project-sprint-planning.md) | Sprint Planning (project)
 
 ### Homework
 file | description
 -----|------------
--- | Project Brainstorm 2 (viz/dataset)
 [http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
 [../modules/codeconcepts/function.md](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md) | Functions Homework (Python & JavaScript)
 
@@ -71,3 +70,4 @@ file | description
 [../modules/api/apireadings.md](https://github.com/dmil/code4policy/blob/master/apireadings.md) | API Readings
 -- | WebDev Homework
 -- | Prepare for Sprint Review (MVP of Project)
+-- | Refine Project Brainstorm
