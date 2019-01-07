@@ -52,7 +52,7 @@ file | description
 ### Homework
 file | description
 -----|------------
-- | Project Brainstorm 2 (viz/dataset)
+-- | Project Brainstorm 2 (viz/dataset)
 [http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
 [../modules/codeconcepts/function.md](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md) | Functions Homework (Python & JavaScript)
 
