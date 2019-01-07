@@ -28,30 +28,30 @@ file | description
 [welcome.md](welcome.md) | Intro
 [../modules/agile/](https://github.com/code4policy/modules/tree/master/agile) | Agile & Scrum
 [../modules/commandline/](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
-TKTK | Selecting Project Groups
+-- | Selecting Project Groups
 
 ### Homework
 
-file | description
------|------------
-[precoursework.md](precoursework.md) | Finish Pre-course work
-[../modules/finalproject/brainstorm.md](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md) | Project Brainstorm Guide
-[../modules/commandline/07-homework.md](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md) | Command Line Homework
-[../modules/agile/06-reading.md](https://github.com/code4policy/modules/blob/master/agile/06-reading.md) | Agile Reading
+Item | 
+-----|
+[Finish Pre-course work](precoursework.md) | 
+[Project Brainstorm Guide](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md) |
+[Command Line Homework](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md) |
+[Agile Reading](https://github.com/code4policy/modules/blob/master/agile/06-reading.md) |
 
 # Day 2
 
 file | description
 -----|------------
-[slides](https://slides.com/dhrumilmehta/deck-dcee62b7-28ae-4199-8d47-4ceba73739aa-5-7#/) | Data Driven Storytelling
-[../modules/agile/07-project-storytime.md](https://github.com/code4policy/modules/blob/master/agile/07-project-storytime.md) | Storytime (project)
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Storytime Meeting (project)
 -- | Agile Discussion with guest speakers (11am Section A / 1pm Section B)
-[../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Git & GitHub Part 1 (linear workflow)
-[../modules/agile/08-project-sprint-planning.md](https://github.com/code4policy/modules/blob/master/agile/08-project-sprint-planning.md) | Sprint Planning (project)
+[../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Git & GitHub
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting (project)
+[slides](https://slides.com/dhrumilmehta/deck-dcee62b7-28ae-4199-8d47-4ceba73739aa-5-7#/) | Data Driven Storytelling
 
 ### Homework
 file | description
 -----|------------
--- | Project Brainstorm 2 (viz/dataset)
 [http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
 [../modules/codeconcepts/function.md](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md) | Functions Homework (Python & JavaScript)
+-- | Refine Project Brainstorm
