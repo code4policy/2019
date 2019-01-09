@@ -43,31 +43,31 @@ file | description
 
 file | description
 -----|------------
-[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Storytime Meeting (project)
+[slides](https://slides.com/dhrumilmehta/deck-dcee62b7-28ae-4199-8d47-4ceba73739aa-5-7#/) | Data Driven Storytelling
 -- | Agile Discussion (11am Section A / 1pm Section B)
 [../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Git & GitHub
-[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting (project)
-[slides](https://slides.com/dhrumilmehta/deck-dcee62b7-28ae-4199-8d47-4ceba73739aa-5-7#/) | Data Driven Storytelling
 
 ### Homework
 file | description
 -----|------------
 [http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
 [../modules/codeconcepts/function.md](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md) | Functions Homework (Python & JavaScript)
+-- | Prepare User Stories (project)
 
 # Day 3
 
 file | description
 -----|------------
--- | Collaborating on GitHub
--- | Visualizing Data & Data-Driven Storytelling
--- | Data Types and Conversions
--- | Frontend Vs Backend - Web Basics
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Storytime Meeting (project)
+[../modules/git/](https://github.com/code4policy/modules/tree/master/git) | Collaboration on GitHub
+[../modules/web/](https://github.com/code4policy/modules/tree/master/web) | Frontend Web Development Basics
+-- | Visualizing Data (4pm - both sections)
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting (project)
+-- | Project Time (+Daily Scrum with team)
+
 
 ### Homework
 file | description
 -----|------------
 [../modules/api/apireadings.md](https://github.com/dmil/code4policy/blob/master/apireadings.md) | API Readings
--- | WebDev Homework
--- | Prepare for Sprint Review (MVP of Project)
--- | Refine Project Brainstorm
+-- | Project Work and Prep for Sprint Review
