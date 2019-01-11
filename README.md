@@ -70,4 +70,5 @@ file | description
 file | description
 -----|------------
 [../modules/api/apireadings.md](https://github.com/dmil/code4policy/blob/master/apireadings.md) | API Readings
--- | Project Work and Prep for Sprint Review
+[../modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | Visualization Homework
+-- | Project Work
