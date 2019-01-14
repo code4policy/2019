@@ -71,4 +71,19 @@ file | description
 -----|------------
 [../modules/api/apireadings.md](https://github.com/dmil/code4policy/blob/master/apireadings.md) | API Readings
 [../modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | Visualization Homework
+-- | Prepare for Sprint Review (MVP of Project)
+
+# Day 4
+file | description
+-----|------------
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/05-sprint-review.md) | Sprint 1 Review
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/06-sprint-retrospective.md) | Sprint 1 Retrospective
+[../modules/security/](https://github.com/code4policy/modules/blob/master/security/encryption.md) | Security Discussion (Max)
+[../modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data & Transformations
+[../modules/finalproject](https://github.com/code4policy/modules/tree/master/finalproject) | Sprint 2 Storytime & Sprint Planning
+
+### Homework
+file | description
+-----|------------
+[../modules/opensource](https://github.com/code4policy/modules/blob/master/opensource/opensource.md) | Open Source Reading
 -- | Project Work
