@@ -78,6 +78,7 @@ file | description
 -----|------------
 [../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/05-sprint-review.md) | Sprint 1 Review
 [../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/06-sprint-retrospective.md) | Sprint 1 Retrospective
+[../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/project.md) | Project Requirements
 [../modules/security/](https://github.com/code4policy/modules/blob/master/security/encryption.md) | Security Discussion (Max)
 [../modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data & Transformations
 [../modules/finalproject](https://github.com/code4policy/modules/tree/master/finalproject) | Sprint 2 Storytime & Sprint Planning
