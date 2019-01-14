@@ -86,6 +86,6 @@ file | description
 ### Homework
 file | description
 -----|------------
-[../modules/opensource](https://github.com/code4policy/modules/blob/master/opensource/opensource.md) | Open Source Reading
 -- | Project Work
 -- | Submit CodeCademy Screenshot to "assignments" repo
+-- | Finish in-class python and upload to "assignments" repo
