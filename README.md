@@ -81,11 +81,26 @@ file | description
 [../modules/finalproject/](https://github.com/code4policy/modules/blob/master/finalproject/project.md) | Project Requirements
 [../modules/security/](https://github.com/code4policy/modules/blob/master/security/encryption.md) | Security Discussion (Max)
 [../modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data & Transformations
-[../modules/finalproject](https://github.com/code4policy/modules/tree/master/finalproject) | Sprint 2 Storytime & Sprint Planning
 
 ### Homework
 file | description
 -----|------------
--- | Project Work
+[../modules/finalproject](https://github.com/code4policy/modules/tree/master/finalproject) | Sprint 2 Storytime & Sprint Planning
 -- | Submit CodeCademy Screenshot to "assignments" repo
 -- | Finish in-class python and upload to "assignments" repo
+
+# Day 5
+file | description
+-----|------------
+[../modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data & Transformations (pair programming)
+[../modules/web/](https://github.com/code4policy/modules/tree/master/web) | Web, APIs, and Scrapers
+-- | Project Time
+
+### Homework
+file | description
+-----|------------
+[Google Form](https://goo.gl/forms/COtsJPsOq63rKOgk2) | Sprint 2 Retrospective Meeting
+-- | Sprint 2 Review (project submission)
+[day5reading.md](day5reading.md) | Api & OSS Reading
+[Google Form](https://goo.gl/forms/LD0BzbXkXmAC6LfX2) | Project/Agile Reflection
+[Canvas](https://canvas.harvard.edu) | Course Evaluations (Due Jan 24)
