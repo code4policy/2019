@@ -1,6 +1,6 @@
 # Reading Assignment
 
-Hope you all enjoyed the couese. Here is the final reading/slack discussion assignment. 
+Hope you all enjoyed the course. Here is the final reading/slack discussion assignment. 
 
 Please read 
 
